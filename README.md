@@ -5,6 +5,7 @@ My goals is:-
   - Provision K8S cluster by KOPS on the provisioned Infra
   - Provision a Jenkins in Master-slave configuration on AWS EC2 for building the Simple Node App.
   - Run the latest Node app on cluster. 
+  - An Automated test runner on AWS
 
 
 <!--
