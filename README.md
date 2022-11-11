@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mufazzal Hussain</h1>
-<h3 align="center">PHP -> JQuery -> Android -> React -> DevOps ==> Journey Continue</h3>
+<h3 align="center">PHP -> JQuery -> Android -> React -> Journey Continue</h3>
 
 # ![28218184](https://user-images.githubusercontent.com/1618139/177921614-0d7b3e90-ccb5-4265-a28a-35e1ee1f5e6a.jpg)
 <!-- ![banner](https://user-images.githubusercontent.com/1618139/177921272-3e1a3419-237e-4733-9f62-0610104aa436.jpg) -->
